@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_2" data-name="Group 2" transform="translate(0.129)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="32" height="32" rx="11" transform="translate(-0.129)" fill="#4d4e5c"/>
+    <path id="Icon_open-list-rich" data-name="Icon open-list-rich" d="M0,0V6.375H6.375V0ZM8.5,0V2.125H17V0Zm0,4.25V6.375h6.375V4.25ZM0,8.5v6.375H6.375V8.5Zm8.5,0v2.125H17V8.5Zm0,4.25v2.125h6.375V12.75Z" transform="translate(7.273 8.644)" fill="#c8e676"/>
+  </g>
+</svg>

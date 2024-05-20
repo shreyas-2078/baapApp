@@ -1,0 +1,13 @@
+{
+    "authUrl" : "https://tilinp22pglxegv7pq56kukd5m0jidcn.lambda-url.ap-south-1.on.aws/auth/",
+    "commerceUrl": "https://xddmataznwdvucu4va6rorfxye0crvdp.lambda-url.ap-south-1.on.aws/commerce/",
+    "gatewayUrl": "https://gxppcdmn7h.execute-api.ap-south-1.amazonaws.com/",
+    "memberUrl":"https://xiy4qu5nx6p4vbhdr34un5mq2q0ujwee.lambda-url.ap-south-1.on.aws/members/",
+    "paymentUrl": "https://h3gr9lo7kb.execute-api.ap-south-1.amazonaws.com/payment/v1/api/",
+    "imageUploadUrl": "https://mzdj9zyo62.execute-api.ap-south-1.amazonaws.com/doc-upload/",
+    "imageResizeUrl": "https://qzc8g7qbwa.execute-api.ap-south-1.amazonaws.com/",
+    "groupId":1698658253245,
+    "experienceGroupId": 1703228300417,
+    "roleId":1701427961185,
+    "version":"13.0.3"
+  }

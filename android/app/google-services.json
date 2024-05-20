@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718383142833",
+    "project_id": "baap-app-3715e",
+    "storage_bucket": "baap-app-3715e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718383142833:android:b1c6339085469d3db28f90",
+        "android_client_info": {
+          "package_name": "com.baapcompany.baapapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_uC24QTRwLltJywto8u9TlL01w1E-ojc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
